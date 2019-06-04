@@ -22,6 +22,7 @@ min-width: 1024px">
 <form>
 <h1><center>Home Loan</center></h1>
 <p>
+
 Getting a home loan from WIELDY Bank is quick and easy. We offer higher eligibility and lower EMIs at attractive interest rates.
 
 Moreover, application processing through our TABLET and Smart phone applications ensures faster approval of your home loan.
