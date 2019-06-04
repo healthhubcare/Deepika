@@ -8,7 +8,7 @@
 
 
 </head>
-<body style="background-image: url(./image/mainpage.jpg);
+<body style="background-image: url(./image/bulb.jpg);
 webkit-background-size: cover;
 -moz-background-size: cover;
 -o-background-size: cover;

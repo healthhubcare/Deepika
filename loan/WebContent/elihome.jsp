@@ -5,6 +5,31 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 <title>Home loan Eligibility</title>
+<style>
+
+.black
+{
+
+background-color:rgba(0,0,0,0.4);
+ /* -webkit-box-shadow: 3px 3px 5px 6px #ccc;  
+  -moz-box-shadow:    3px 3px 5px 6px #ccc;  
+  box-shadow:         3px 3px 5px 6px #ccc;  */ 
+width:600px;
+height:100px;
+margin-left: 250px;
+
+
+}
+
+
+
+
+
+
+</style>
+
+
+
 <script>
 function check()
 {
@@ -29,7 +54,7 @@ function check()
 
 
 </head>
-<body style="background-image: url(./image/mainpage.jpg);
+<body style="background-image: url(./image/bulb.jpg);
 webkit-background-size: cover;
 -moz-background-size: cover;
 -o-background-size: cover;
@@ -40,6 +65,7 @@ height: auto;
 position: fixed;
 min-height: 100%;
 min-width: 1024px">
+
 <table cellpadding="10" cellsapcing="5" align="center">
 <tr><td align="center"><h1>Home Loan Eligibility </h1></td></tr>
 <tr><td >Age of Applicant<td>above 18 years</td></tr>
@@ -57,15 +83,25 @@ min-width: 1024px">
 
 
 <tr><td >Eligibility with Co-applicant<td>Up to 3 earning family members may be added to get higher loan eligibility</td></tr>
+
+
+
+
+</table>
+<div class="black">
+<form>
+<table align="center">
+
 <tr><td>name:<td><input type="text" id="name"></td></tr>
 <tr><td>salary:<td><input type="number" id="s"></td></tr>
 <tr><td>Company name:<td><input type="text" name="c"></td></tr>
 <tr><td><center><input type="button" value="Eligiblity check" onclick="check()"></center></td></tr>
 
 
+
 </table>
-
-
+</form>
+</div>
 
 <a href="loanhome.jsp"><input type="button" name="button" value="back"></a>
 

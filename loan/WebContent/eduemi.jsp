@@ -4,8 +4,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Home loan</title>
-
+<title>Education loan EMI</title>
 
 <style>
 .black
@@ -35,7 +34,7 @@ margin-left: 250px;
 </style>
 <script type="text/javascript" src="cal.js"></script>
 </head>
-<body style="background-image: url(./image/bulb.jpg);
+<body style="background-image: url(./image/YELLOW.jpg);
 webkit-background-size: cover;
 -moz-background-size: cover;
 -o-background-size: cover;
@@ -46,18 +45,14 @@ position: fixed;
 min-height: 100%;
 min-width: 1024px">
 <p align="justify">
-Home Loan starting from 8.65% Interest rate
-Compare 40+ Banks and get the best housing
-loans at lowest interest rates. 
-Housing finance schemes available at Paisabazaar are best-in-class.
-Get the best home loan deals with
-low processing fee and hassle-free process.
-</p>
+<bold>How much will a loan cost you every month? Our EMI calculator for Education loan will tell you quickly.
+Also, check your eligibility and the applicable EMI for the amount of loan you wish to take from Wieldy Bank or any other bank. 
+<bold></p>
 <div class="white">
 <form>
 
 <div class="black">
-<center><h1 class="home-loan-emi-calculator title text-center">Home Loan EMI Calculator</h1></center>
+<center><h1 class="home-loan-emi-calculator title text-center">Education Loan EMI Calculator</h1></center>
 <table align="center" cellpading="50" cellspacing="15">
 <tr><td align="center"></td></tr>
 <tr><td>Loan Amount<td>
@@ -76,7 +71,7 @@ low processing fee and hassle-free process.
 
 </div>
 </form>
-<a href="loanhome.jsp"><input type="button" name="button" value="back"></a>
+<a href="loanEducation.jsp"><input type="button" name="button" value="back"></a>
 </div>
 
 </body>
